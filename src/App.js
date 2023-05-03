@@ -1,10 +1,10 @@
 import React from 'react';
-import PlayerSearch from './components/PlayerSearch';
+import ChessCard from './components/ChessCard.js';
 
 function App() {
   return (
     <div>
-      <PlayerSearch /> 
+      <ChessCard/>
     </div>
   );
 }
